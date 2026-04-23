@@ -106,14 +106,14 @@ This shows how constraints are checked during coloring.
 ---
 
 ## 🎯 Key Insights
-- CSP ensures no constraint violations
-- Uses backtracking to explore valid solutions
-- Efficient for real-world scheduling and assignment problems
+- CSP ensures no constraint violations.
+- Uses backtracking to explore valid solutions.
+- Efficient for real-world scheduling and assignment problems.
 
 ---
 
 ## 🚀 Real-World Applications
-- Exam scheduling
+- Exam scheduling and rescheduling
 - Resource allocation
 - Map coloring in GIS systems
 - AI constraint solving systems

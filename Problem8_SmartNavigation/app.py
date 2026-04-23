@@ -227,7 +227,7 @@ if bfs_path is not None and dfs_path is not None:
     line-height: 1.75;
 ">
 
-### 🌟 1. What This Project Demonstrates
+### 🌟 1.This Project Demonstrates
 
 This system shows how **graph search algorithms** explore the same network in completely different ways.
 
@@ -238,7 +238,7 @@ Even though BFS and DFS work on the same graph:
 
 ---
 
-### 🧠 2. BFS (Breadth First Search) – Intelligent Layer-by-Layer Search
+### 🧠 2. BFS(Breadth First Search) – Intelligent Layer-by-Layer Search
 
 <div style="background:#e3f2fd;padding:12px;border-radius:10px;margin:8px 0;">
 ✔ BFS explores the graph **level by level**
@@ -290,7 +290,7 @@ This project clearly demonstrates that:
 
 ### 🎯 6. Real AI Relevance
 
-This concept is used in:
+This Concept is used in:
 - 🗺️ Google Maps (routing systems)
 - 🤖 AI search problems
 - 🎮 Game decision trees
