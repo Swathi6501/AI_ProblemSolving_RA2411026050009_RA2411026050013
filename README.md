@@ -3,32 +3,18 @@
 ## 📌 Repository
 AI_ProblemSolving_RA2411026050009_RA2411026050013
 
----
+# Problem 8: Smart Navigation System (BFS & DFS)
 
-
-## 👥 Team Members
-- Bavaneesh M (Reg No: RA2411026050009)
-- Swathi Palanisamy (Reg No: RA2411026050013)
-
-
----
-
-# 🚀 Problem 8: Smart Navigation System (BFS & DFS)
-
-## 🔹 Description
+## Description
 This project implements a Smart Navigation System that finds the best path between a start node and a goal node using **Breadth First Search (BFS)** and **Depth First Search (DFS)** algorithms.
 
 It visually compares how both algorithms explore the same graph differently.
 
----
-
-## 🧠 Algorithms Used
+## Algorithms Used
 - Breadth First Search (BFS)
 - Depth First Search (DFS)
 
----
-
-## 📸 Screenshots
+## Screenshots
 
 ### 1️⃣ Graph Input Interface
 ![Input Graph](screenshots/01_graph_input_interface.png)
@@ -53,35 +39,30 @@ This shows how BFS and DFS explore the same graph differently.
 #### 🟣 Summary View 3
 ![Summary 3](screenshots/03_final_summary_analysis3.png)
 
----
 
-## 🎯 Key Insights
+## Key Insights
 - BFS explores level by level and finds the shortest path
 - DFS explores deep paths before backtracking
 - Same graph → different intelligent traversal behavior
 
----
 
-## 🚀 Real-World Applications
+## Real-World Applications
 - Google Maps routing systems
 - AI pathfinding systems
 - Game AI decision trees
 - Puzzle solving systems
 
----
 
----
+# Problem 5: Map Coloring Problem (CSP)
 
-# 🌈 Problem 5: Map Coloring Problem (CSP)
-
-## 🔹 Description
+## Description
 This project solves the **Map Coloring Problem using Constraint Satisfaction Problem (CSP)** approach.
 
 The goal is to assign colors to regions such that **no adjacent regions share the same color**.
 
 ---
 
-## 🧠 Algorithm Used
+##  Algorithm Used
 - Constraint Satisfaction Problem (Backtracking Approach)
 
 ---
@@ -91,26 +72,18 @@ The goal is to assign colors to regions such that **no adjacent regions share th
 ### 1️⃣ CSP Input Interface
 ![CSP Input](screenshots/csp_input.png)
 
----
-
 ### 2️⃣ CSP Step-by-Step Process
 This shows how constraints are checked during coloring.
 
 ![CSP Steps](screenshots/csp_steps.png)
 
----
-
 ### 3️⃣ Final Colored Map Output
 ![CSP Final](screenshots/csp_final.png)
 
----
-
-## 🎯 Key Insights
+## Key Insights
 - CSP ensures no constraint violations.
 - Uses backtracking to explore valid solutions.
 - Efficient for real-world scheduling and assignment problems.
-
----
 
 ## 🚀 Real-World Applications
 - Exam scheduling and rescheduling
@@ -118,11 +91,9 @@ This shows how constraints are checked during coloring.
 - Map coloring in GIS systems
 - AI constraint solving systems
 
----
 
----
 
-# 🏁 Final Conclusion (Both Projects)
+# Final Conclusion (Both Projects)
 
 This assignment demonstrates two powerful AI problem-solving techniques:
 
@@ -134,15 +105,13 @@ Together, they show how AI can:
 - Satisfy constraints (optimization problems)
 - Solve real-world computational challenges efficiently
 
----
 
-## 📊 Learning Outcome
+## Learning Outcome
 This project helped understand:
 - How different AI strategies behave on the same problem
 - Importance of algorithm selection
 - Real-world usage of graph and constraint-based AI systems
 
----
 
 ## 🔗 GitHub Repository
 https://github.com/Swathi6501/AI_ProblemSolving_RA2411026050009_RA2411026050013
