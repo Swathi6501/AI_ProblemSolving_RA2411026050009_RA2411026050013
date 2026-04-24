@@ -1,6 +1,6 @@
 # AI Problem Solving Assignment
 
-## 📌 Repository
+## Repository
 AI_ProblemSolving_RA2411026050009_RA2411026050013
 
 # Problem 8: Smart Navigation System (BFS & DFS)
@@ -16,27 +16,25 @@ It visually compares how both algorithms explore the same graph differently.
 
 ## Screenshots
 
-### 1️⃣ Graph Input Interface
+### 1️ Graph Input Interface
 ![Input Graph](screenshots/01_graph_input_interface.png)
 
----
 
-### 2️⃣ BFS vs DFS Visualization
+### 2️ BFS vs DFS Visualization
 This shows how BFS and DFS explore the same graph differently.
 
 ![BFS DFS Visualization](screenshots/02_bfs_dfs_visualization.png)
 
----
 
-### 3️⃣ Final Result Analysis
+### 3️ Final Result Analysis
 
-#### 🟢 Summary View 1
+####  Summary View 1
 ![Summary 1](screenshots/03_final_summary_analysis1.png)
 
-#### 🔵 Summary View 2
+####  Summary View 2
 ![Summary 2](screenshots/03_final_summary_analysis2.png)
 
-#### 🟣 Summary View 3
+####  Summary View 3
 ![Summary 3](screenshots/03_final_summary_analysis3.png)
 
 
@@ -60,24 +58,22 @@ This project solves the **Map Coloring Problem using Constraint Satisfaction Pro
 
 The goal is to assign colors to regions such that **no adjacent regions share the same color**.
 
----
 
 ##  Algorithm Used
 - Constraint Satisfaction Problem (Backtracking Approach)
 
----
 
 ## 📸 Screenshots
 
-### 1️⃣ CSP Input Interface
+### 1️ CSP Input Interface
 ![CSP Input](screenshots/csp_input.png)
 
-### 2️⃣ CSP Step-by-Step Process
+### 2️ CSP Step-by-Step Process
 This shows how constraints are checked during coloring.
 
 ![CSP Steps](screenshots/csp_steps.png)
 
-### 3️⃣ Final Colored Map Output
+### 3️ Final Colored Map Output
 ![CSP Final](screenshots/csp_final.png)
 
 ## Key Insights
@@ -85,7 +81,7 @@ This shows how constraints are checked during coloring.
 - Uses backtracking to explore valid solutions.
 - Efficient for real-world scheduling and assignment problems.
 
-## 🚀 Real-World Applications
+## Real-World Applications
 - Exam scheduling and rescheduling
 - Resource allocation
 - Map coloring in GIS systems
