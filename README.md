@@ -74,6 +74,7 @@ This shows how constraints are checked during coloring.
 ![CSP Steps](screenshots/csp_steps.png)
 
 ### 3️ Final Colored Map Output
+![CSP Final 1](screenshots/csp_final1.png)
 ![CSP Final](screenshots/csp_final.png)
 
 ## Key Insights
